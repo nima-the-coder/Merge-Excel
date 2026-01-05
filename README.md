@@ -60,9 +60,8 @@ Tool automatically:
 
 -CSV file uses UTF-8-SIG encoding for Persian/Arabic compatibility
 
-    📄 License
-This project is released under the MIT License.
-
+    This project is released under the MIT License.
+---
     Developer
 Name: [Nima]
 
